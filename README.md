@@ -4,4 +4,4 @@ This repository contains a detailed todo app that implements MVVM architecture u
 
 The app has following packages:
 1. db: It contains all the data accessing and maniplulating components
-2. viewmodel: It contaion viewmodel and viewmodelfactory
+2. viewmodel: It contains viewmodel and viewmodelfactory
